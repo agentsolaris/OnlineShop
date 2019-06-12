@@ -1,3 +1,2 @@
-# OnlineShop (WIP)
-First java swing project
-Project
+# Login
+Java login using Swing
